@@ -7,7 +7,7 @@
       "assets/*": ["assets/*"],
       "pages/*": ["pages/*"],
       "contexts/*": ["contexts/*"],
-      "lib/*": ["lib/*"]
+      "utils/*": ["utils/*"]
     }
   },
   "exclude": ["node_modules", "build"]

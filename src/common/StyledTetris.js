@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import bgImage from 'assets/images/bg.png';
+import bgImage from 'assets/images/spacebg.jpg';
 
 export const StyledTetrisWrapper = styled.div`
   width: 100vw;
